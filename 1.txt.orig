@@ -1,6 +1,7 @@
 This my first commit
 
-
+<<<<<<< HEAD
 this is feature f1
-
+=======
 this is feature2
+>>>>>>> f2
